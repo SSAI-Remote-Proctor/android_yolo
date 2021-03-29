@@ -1,0 +1,12 @@
+Apple
+Orange
+Banana
+cider
+Pringles
+Coke
+Seagram
+Hand_up
+Hand_middle
+Hand_down
+Hand_up_45
+Hand_down_45
